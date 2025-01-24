@@ -1,9 +1,15 @@
+@font-face {
+    font-family: buttermilk;
+    src: url("./PlaywriteIN-VariableFont_wght.woff2");
+}
+
+
 body{
     background-color: blueviolet;
 }
 
 div{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: buttermilk;
     color: aqua;
     padding: 20px;
     margin: 20px;
